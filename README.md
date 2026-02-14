@@ -29,7 +29,6 @@ Install required libraries:
 
 pip install vosk sounddevice pyttsx3
 
-
 Download Vosk model and place it in the project folder.
 
 Run the program:
@@ -47,7 +46,8 @@ Speak commands like:
 
 “Search Python tutorials”
 
-“Exit”                                                                                                                                                                                                                              🎓 What I Learned
+“Exit”                                                                                                                                                                                                                              
+🎓 What I Learned
 
 Real-time audio processing
 
